@@ -1,4 +1,4 @@
-### Pytorch MNIST dataset usage
+# Pytorch MNIST dataset usage
 
 This repo creates a simple MNIST model. Heres an usage parts.
 
@@ -10,13 +10,13 @@ pip install torch torchvision
 
 ## Setting up
 
-# 1-Clone the repo.
+### 1-Clone the repo.
 
 ```bash
 git clone https://Melon3141/pytorch-mnist && cd pytorch-mnist 
 ```
 
-# 2-Train the model.
+### 2-Train the model.
 ```bash
 python main.py
 ```
